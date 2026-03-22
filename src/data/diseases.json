@@ -1,0 +1,577 @@
+[
+  {
+    "id": "osteoporosis",
+    "name": "Osteoporosis",
+    "category": "Bone Disorders",
+    "etiology": "A systemic skeletal disorder characterized by low bone mass and micro-architectural deterioration of bone tissue. It is primarily caused by an imbalance between bone resorption and bone formation. Factors include aging, estrogen deficiency in postmenopausal women, long-term corticosteroid use, and sedentary lifestyle.",
+    "pathophysiology": "The condition involves an increase in osteoclast activity relative to osteoblast activity. This leads to a decrease in bone mineral density (BMD) and a disruption of the trabecular bone structure, making bones porous and highly susceptible to low-energy fractures (fragility fractures).",
+    "symptoms": [
+      "Gradual loss of height over several years",
+      "Kyphosis (Dowager's hump) due to vertebral compression fractures",
+      "Acute back pain following minor movements",
+      "Increased frequency of fractures in the wrist, hip, or spine",
+      "Reduced mobility and physical function"
+    ],
+    "epidemiology": "Osteoporosis is a major global public health problem. According to the World Health Organization (WHO), it affects hundreds of millions of people worldwide, predominantly postmenopausal women. It is estimated that 1 in 3 women and 1 in 5 men over the age of 50 will experience an osteoporotic fracture in their lifetime. The incidence increases significantly with age.",
+    "diagnosis": "Diagnosis is primarily established using Dual-energy X-ray Absorptiometry (DEXA) scanning to measure Bone Mineral Density (BMD). A T-score of -2.5 or lower at the spine or hip indicates osteoporosis. The FRAX tool (Fracture Risk Assessment Tool), developed by the WHO, is also used to evaluate the 10-year probability of bone fracture risk. Laboratory tests (calcium, vitamin D, PTH) help rule out secondary causes.",
+    "treatment": "Management involves lifestyle modifications (weight-bearing exercises, smoking cessation, limiting alcohol) and adequate calcium and vitamin D intake. Pharmacological treatments include antiresorptive agents like bisphosphonates (e.g., alendronate), RANK ligand inhibitors (denosumab), and selective estrogen receptor modulators (raloxifene). Anabolic agents like teriparatide or romosozumab are used for severe cases.",
+    "prognosis": "While osteoporosis cannot be completely cured, proper treatment can significantly slow bone loss, increase bone density, and reduce the risk of fractures. The prognosis is generally good with early intervention, but osteoporotic hip fractures carry a high morbidity and mortality rate in the elderly, often leading to a loss of independence.",
+    "sources": [
+      "World Health Organization (WHO) - Musculoskeletal Health",
+      "Harrison's Principles of Internal Medicine",
+      "International Osteoporosis Foundation (IOF)"
+    ]
+  },
+  {
+    "id": "osteoarthritis",
+    "name": "Osteoarthritis",
+    "category": "Joint Diseases",
+    "etiology": "A degenerative joint disease resulting from a combination of mechanical stress, low-grade inflammation, and metabolic factors. Risk factors include obesity, joint injury, repetitive stress, and genetic predisposition.",
+    "pathophysiology": "Characterized by the progressive loss of articular cartilage, subchondral bone remodeling, and the formation of osteophytes (bone spurs). The synovial membrane often becomes inflamed, and the joint capsule thickens, leading to joint space narrowing.",
+    "symptoms": [
+      "Deep, aching joint pain that worsens with activity and improves with rest",
+      "Morning stiffness lasting less than 30 minutes",
+      "Crepitus (grating sensation) during joint movement",
+      "Bony enlargements (Heberden's and Bouchard's nodes in the hands)",
+      "Reduced range of motion and joint instability"
+    ],
+    "epidemiology": "Osteoarthritis (OA) is the most common form of arthritis worldwide. The WHO reports that hundreds of millions of people suffer from OA globally. It is a leading cause of disability in older adults. Prevalence increases with age, and it is more common in women than men after the age of 50. Obesity is a major modifiable risk factor, particularly for knee OA.",
+    "diagnosis": "Diagnosis is primarily clinical, based on a history of joint pain, stiffness, and characteristic physical findings (e.g., crepitus, bony enlargement). Plain radiography (X-rays) is the standard imaging modality, showing joint space narrowing, osteophytes, subchondral sclerosis, and cysts. MRI can detect early cartilage changes but is not routinely required for diagnosis.",
+    "treatment": "Treatment focuses on symptom relief and improving function. Non-pharmacological approaches include weight loss, physical therapy, and assistive devices. Pharmacological options include topical NSAIDs, oral NSAIDs, acetaminophen, and intra-articular corticosteroid or hyaluronic acid injections. In advanced cases with severe pain and functional impairment, joint replacement surgery (arthroplasty) is highly effective.",
+    "prognosis": "OA is a chronic, progressive condition. While the structural damage is generally irreversible, symptoms can often be managed effectively. The rate of progression varies widely among individuals. Joint replacement surgery can provide excellent long-term outcomes and restore quality of life for those with severe, end-stage disease.",
+    "sources": [
+      "World Health Organization (WHO) - Musculoskeletal Conditions",
+      "American College of Rheumatology (ACR)",
+      "Osteoarthritis Research Society International (OARSI)"
+    ]
+  },
+  {
+    "id": "rheumatoid-arthritis",
+    "name": "Rheumatoid Arthritis",
+    "category": "Joint Diseases",
+    "etiology": "A chronic, systemic autoimmune inflammatory disorder. The exact cause is unknown but involves a complex interplay of genetic (HLA-DRB1 alleles) and environmental factors (e.g., smoking).",
+    "pathophysiology": "The immune system attacks the synovium, leading to synovial hyperplasia (pannus formation). This pannus invades and destroys adjacent cartilage and bone. Pro-inflammatory cytokines like TNF-alpha and IL-6 play a central role in the inflammatory cascade.",
+    "symptoms": [
+      "Symmetrical joint swelling and pain, typically in small joints (hands, feet)",
+      "Prolonged morning stiffness lasting more than 1 hour",
+      "Systemic symptoms including fatigue, low-grade fever, and weight loss",
+      "Rheumatoid nodules under the skin",
+      "Ulnar deviation and other joint deformities in advanced stages"
+    ],
+    "epidemiology": "Rheumatoid arthritis affects approximately 0.5% to 1% of the global population. According to the WHO, it is one of the most common autoimmune diseases. It is two to three times more common in women than in men. The typical age of onset is between 30 and 60 years, although it can occur at any age.",
+    "diagnosis": "Diagnosis is based on clinical presentation (symmetrical polyarthritis), laboratory tests, and imaging. Key blood tests include Rheumatoid Factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibodies, which are highly specific. Elevated acute phase reactants (ESR, CRP) indicate inflammation. X-rays and ultrasound can detect early erosions and synovitis.",
+    "treatment": "Early and aggressive treatment is crucial to prevent joint damage. Disease-modifying antirheumatic drugs (DMARDs), particularly methotrexate, are the first-line therapy. Biologic DMARDs (e.g., TNF inhibitors, IL-6 inhibitors) and targeted synthetic DMARDs (JAK inhibitors) are used for moderate to severe disease. NSAIDs and corticosteroids provide symptomatic relief during flares.",
+    "prognosis": "With the advent of modern DMARDs and biologic therapies, the prognosis for RA has improved dramatically. Many patients achieve clinical remission or low disease activity, preventing severe joint deformity and disability. However, RA is associated with an increased risk of cardiovascular disease and osteoporosis, requiring comprehensive management.",
+    "sources": [
+      "World Health Organization (WHO) - Chronic Diseases",
+      "European Alliance of Associations for Rheumatology (EULAR)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "sarcopenia",
+    "name": "Sarcopenia",
+    "category": "Muscle Diseases",
+    "etiology": "The progressive and generalized loss of skeletal muscle mass and strength. It is associated with aging (primary) or can be secondary to malignancy, organ failure, or malnutrition.",
+    "pathophysiology": "Involves a reduction in the number and size of muscle fibers (atrophy), particularly Type II (fast-twitch) fibers. Mechanisms include mitochondrial dysfunction, increased oxidative stress, and a decline in anabolic hormones (e.g., testosterone, GH).",
+    "symptoms": [
+      "Noticeable decrease in muscle size and definition",
+      "Generalized physical weakness and lack of stamina",
+      "Slow gait speed and increased risk of falls",
+      "Difficulty performing simple daily tasks like rising from a chair",
+      "Unintentional weight loss"
+    ],
+    "epidemiology": "Sarcopenia is highly prevalent in older adults, affecting up to 10-20% of individuals over the age of 65, and up to 50% of those over 80. The WHO recognizes it as a major contributor to frailty and loss of independence in the aging population. It is also increasingly recognized in younger patients with chronic diseases (secondary sarcopenia).",
+    "diagnosis": "Diagnosis requires the presence of low muscle strength (e.g., assessed by grip strength or chair stand test) combined with low muscle quantity or quality (assessed by DEXA, BIA, CT, or MRI). Severe sarcopenia is diagnosed when low physical performance (e.g., slow gait speed, Timed Up and Go test) is also present.",
+    "treatment": "The cornerstone of treatment is progressive resistance training (PRT), which is highly effective at increasing muscle mass and strength even in advanced age. Nutritional interventions are also critical, particularly adequate protein intake (1.0-1.2 g/kg/day) and addressing vitamin D deficiency. Currently, there are no specific FDA-approved pharmacological treatments for sarcopenia.",
+    "prognosis": "Sarcopenia is a progressive condition, but its trajectory can be significantly altered with exercise and nutrition. Untreated sarcopenia leads to increased frailty, higher risk of falls and fractures, loss of independence, and increased mortality. Early intervention can reverse muscle loss and improve functional outcomes.",
+    "sources": [
+      "World Health Organization (WHO) - Ageing and Health",
+      "European Working Group on Sarcopenia in Older People (EWGSOP2)",
+      "Asian Working Group for Sarcopenia (AWGS)"
+    ]
+  },
+  {
+    "id": "ankylosing-spondylitis",
+    "name": "Ankylosing Spondylitis",
+    "category": "Joint Diseases",
+    "etiology": "A chronic inflammatory arthritis primarily affecting the axial skeleton (spine and sacroiliac joints). It has a strong genetic association with the HLA-B27 antigen.",
+    "pathophysiology": "Inflammation at the entheses (where tendons/ligaments attach to bone) leads to erosion and subsequent syndesmophyte formation. This can result in the fusion of vertebrae, known as 'bamboo spine'.",
+    "symptoms": [
+      "Chronic low back pain and stiffness, typically improving with exercise",
+      "Nocturnal back pain that wakes the patient in the second half of the night",
+      "Reduced chest expansion due to involvement of costovertebral joints",
+      "Uveitis (eye inflammation) in some cases",
+      "Enthesitis, particularly at the Achilles tendon"
+    ],
+    "epidemiology": "Ankylosing Spondylitis (AS) has a prevalence of approximately 0.1% to 0.5% globally. It typically begins in early adulthood (ages 20-30) and is more frequently diagnosed in men than women (ratio of about 2:1 to 3:1). There is a strong familial aggregation, heavily linked to the prevalence of the HLA-B27 gene in the population.",
+    "diagnosis": "Diagnosis is based on clinical features (inflammatory back pain), imaging, and laboratory tests. MRI of the sacroiliac joints is crucial for early diagnosis, showing active inflammation (osteitis/bone marrow edema) before changes appear on X-rays. X-rays eventually show sacroiliitis and syndesmophytes. HLA-B27 testing is supportive but not diagnostic on its own.",
+    "treatment": "The goal of treatment is to reduce pain, stiffness, and prevent spinal deformity. NSAIDs are the first-line pharmacological treatment. For patients who do not respond to NSAIDs, biologic therapies, particularly TNF inhibitors (e.g., adalimumab, etanercept) and IL-17 inhibitors (e.g., secukinumab), are highly effective. Physical therapy and regular exercise are essential to maintain spinal mobility.",
+    "prognosis": "The course of AS is highly variable. Many patients have mild disease and maintain good functional capacity. However, severe disease can lead to complete spinal fusion, significant postural deformities, and disability. Early treatment with biologic therapies has significantly improved the long-term prognosis and can slow radiographic progression.",
+    "sources": [
+      "Assessment of SpondyloArthritis international Society (ASAS)",
+      "American College of Rheumatology (ACR)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "pagets-disease",
+    "name": "Paget's Disease of Bone",
+    "category": "Bone Disorders",
+    "etiology": "A localized disorder of bone remodeling. The cause is likely a combination of genetic susceptibility (SQSTM1 gene) and possible viral triggers.",
+    "pathophysiology": "Characterized by excessive and disorganized bone resorption by giant, multi-nucleated osteoclasts, followed by rapid, chaotic bone formation. The resulting bone is structurally weak, enlarged, and highly vascular.",
+    "symptoms": [
+      "Deep, boring bone pain, often worse at night",
+      "Deformities such as bowing of the legs or enlargement of the skull",
+      "Increased skin temperature over affected bones",
+      "Hearing loss if the skull is involved",
+      "Pathological fractures"
+    ],
+    "epidemiology": "Paget's disease is the second most common bone remodeling disorder after osteoporosis. It primarily affects older adults, with prevalence increasing significantly after age 55. It is more common in populations of European descent (particularly the UK, Australia, and New Zealand) and is rare in Asian and African populations. There is a slight male predominance.",
+    "diagnosis": "Diagnosis is often incidental, discovered via an elevated serum alkaline phosphatase (ALP) level on routine blood work or characteristic findings on X-rays taken for other reasons. X-rays show bone enlargement, cortical thickening, and mixed lytic/sclerotic lesions. A radionuclide bone scan is the most sensitive test to identify the extent of skeletal involvement.",
+    "treatment": "Treatment is indicated for symptomatic patients or those at risk of complications (e.g., involvement of weight-bearing bones or the skull). Bisphosphonates, particularly intravenous zoledronic acid, are the treatment of choice. They effectively suppress osteoclast activity and induce long-term remission. Analgesics and NSAIDs are used for pain management. Surgery may be needed for fractures or severe deformities.",
+    "prognosis": "The prognosis for Paget's disease is generally excellent with modern bisphosphonate therapy. Most patients achieve complete biochemical remission. Complications such as osteoarthritis in adjacent joints, nerve compression, and (rarely) osteosarcoma (<1% of cases) can affect long-term outcomes, but early treatment minimizes these risks.",
+    "sources": [
+      "Endocrine Society Clinical Practice Guidelines",
+      "Paget's Association (UK)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "gout",
+    "name": "Gout",
+    "category": "Joint Diseases",
+    "etiology": "A metabolic disease characterized by recurrent episodes of acute arthritis. It is caused by hyperuricemia (elevated uric acid levels), which can result from overproduction or under-excretion of urate.",
+    "pathophysiology": "Monosodium urate (MSU) crystals precipitate in joints and soft tissues. These crystals trigger an intense inflammatory response involving the NLRP3 inflammasome and IL-1beta production.",
+    "symptoms": [
+      "Sudden, excruciating pain, often in the first metatarsophalangeal joint (big toe)",
+      "Joint swelling, redness, and extreme tenderness",
+      "Tophi (chalky deposits of urate) in chronic cases",
+      "Fever and chills during acute flares",
+      "Limited range of motion in the affected joint"
+    ],
+    "epidemiology": "Gout is the most common form of inflammatory arthritis in men, affecting approximately 1-4% of the general population in developed countries. Its prevalence is increasing globally, linked to rising rates of obesity, metabolic syndrome, and dietary changes. It is much more common in men than in premenopausal women, though the risk in women increases after menopause.",
+    "diagnosis": "The gold standard for diagnosis is the identification of negatively birefringent monosodium urate (MSU) crystals in synovial fluid aspirated from an affected joint. Clinical diagnosis can be made based on characteristic symptoms (e.g., podagra, rapid onset). Serum uric acid levels are often elevated but can be normal during an acute flare. Ultrasound may show a 'double contour sign'.",
+    "treatment": "Management is divided into treating acute flares and long-term urate-lowering therapy (ULT). Acute flares are treated with NSAIDs, colchicine, or systemic/intra-articular corticosteroids. Long-term ULT aims to maintain serum urate below 6 mg/dL to dissolve crystals and prevent flares. Allopurinol is the first-line ULT; febuxostat or uricosurics (e.g., probenecid) are alternatives. Lifestyle modifications (diet, weight loss) are also important.",
+    "prognosis": "With appropriate and consistent urate-lowering therapy, gout is a curable disease in terms of preventing future flares and resolving tophi. However, poor adherence to medication is common, leading to chronic gouty arthritis, joint destruction, and increased cardiovascular risk. Early and effective management ensures an excellent prognosis.",
+    "sources": [
+      "American College of Rheumatology (ACR)",
+      "European Alliance of Associations for Rheumatology (EULAR)",
+      "World Health Organization (WHO) - Musculoskeletal Conditions"
+    ]
+  },
+  {
+    "id": "fibromyalgia",
+    "name": "Fibromyalgia",
+    "category": "Muscle Diseases",
+    "etiology": "A chronic pain syndrome characterized by widespread musculoskeletal pain. The exact etiology is unknown but is believed to involve central sensitization, where the brain and spinal cord process pain signals abnormally.",
+    "pathophysiology": "Involves altered neurotransmitter levels (e.g., elevated substance P, decreased serotonin and norepinephrine) leading to amplified pain perception (hyperalgesia and allodynia). There is no peripheral tissue inflammation or damage.",
+    "symptoms": [
+      "Widespread, chronic musculoskeletal pain",
+      "Severe fatigue and non-restorative sleep",
+      "Cognitive difficulties ('fibro fog')",
+      "Multiple tender points across the body",
+      "Co-occurring conditions like IBS or migraines"
+    ],
+    "epidemiology": "Fibromyalgia affects approximately 2-8% of the global population. It is significantly more common in women, who account for 75-90% of diagnosed cases. It typically develops in middle adulthood but can affect individuals of any age. It frequently co-occurs with other central sensitivity syndromes and psychiatric conditions like depression and anxiety.",
+    "diagnosis": "Diagnosis is entirely clinical, based on patient history and the widespread pain index (WPI) combined with the symptom severity (SS) scale. There are no specific laboratory or imaging tests for fibromyalgia; tests are primarily used to rule out other conditions (e.g., hypothyroidism, autoimmune diseases). The historical requirement of tender point examination is no longer strictly required.",
+    "treatment": "Treatment requires a multidisciplinary approach. Non-pharmacological therapies are the cornerstone, including graded aerobic exercise, cognitive behavioral therapy (CBT), and sleep hygiene. Pharmacological treatments include neuromodulators (e.g., pregabalin, gabapentin) and SNRIs (e.g., duloxetine, milnacipran). Opioids and strong NSAIDs are generally ineffective and not recommended.",
+    "prognosis": "Fibromyalgia is a chronic condition with a fluctuating course. While there is no cure, a comprehensive, patient-centered management plan can significantly improve symptoms and quality of life. The prognosis is best when patients actively participate in self-management strategies, particularly regular exercise and stress reduction.",
+    "sources": [
+      "American College of Rheumatology (ACR)",
+      "World Health Organization (WHO) - ICD-11",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "muscular-dystrophy",
+    "name": "Muscular Dystrophy",
+    "category": "Muscle Diseases",
+    "etiology": "A group of inherited genetic disorders that cause progressive weakness and loss of muscle mass. Duchenne muscular dystrophy (DMD), the most common severe form, is caused by an X-linked recessive mutation in the dystrophin gene.",
+    "pathophysiology": "The absence or dysfunction of dystrophin, a protein that connects the cytoskeleton of a muscle fiber to the surrounding extracellular matrix, leads to membrane instability. Muscle contractions cause continuous damage, leading to necrosis, inflammation, and eventual replacement of muscle tissue with fat and fibrotic tissue.",
+    "symptoms": [
+      "Progressive muscle weakness, typically starting in proximal muscles",
+      "Frequent falls and difficulty rising from a lying or sitting position (Gowers' sign)",
+      "Waddling gait",
+      "Calf pseudohypertrophy (enlarged calves due to fat/fibrosis)",
+      "Eventual respiratory and cardiac complications"
+    ],
+    "epidemiology": "Muscular dystrophies are rare diseases. Duchenne muscular dystrophy (DMD) is the most common childhood form, affecting approximately 1 in 3,500 to 5,000 live male births worldwide. Becker muscular dystrophy is less severe and less common. Other forms, such as myotonic dystrophy and facioscapulohumeral muscular dystrophy, affect both sexes and often present later in life.",
+    "diagnosis": "Diagnosis involves clinical evaluation, significantly elevated serum creatine kinase (CK) levels, and genetic testing to identify specific gene mutations (e.g., dystrophin gene deletions or duplications). Muscle biopsy, showing muscle fiber necrosis, regeneration, and fibrosis, was historically common but is now largely replaced by genetic testing.",
+    "treatment": "There is currently no cure for muscular dystrophy. Management is supportive and multidisciplinary. Corticosteroids (e.g., prednisone, deflazacort) are the standard of care for DMD to prolong ambulation and preserve respiratory function. Physical therapy prevents contractures. Emerging therapies include exon-skipping drugs (e.g., eteplirsen) and gene therapy, which target specific genetic mutations.",
+    "prognosis": "The prognosis varies widely depending on the specific type of muscular dystrophy. DMD is severe, typically leading to loss of ambulation in early adolescence and a shortened lifespan (often into the 20s or 30s) due to respiratory or cardiac failure. Other forms, like Becker or myotonic dystrophy, have a slower progression and a more variable impact on life expectancy.",
+    "sources": [
+      "Muscular Dystrophy Association (MDA)",
+      "World Health Organization (WHO) - Genomic Resource Centre",
+      "Neuromuscular Disease Center, Washington University"
+    ]
+  },
+  {
+    "id": "osteogenesis-imperfecta",
+    "name": "Osteogenesis Imperfecta",
+    "category": "Bone Disorders",
+    "etiology": "Also known as 'brittle bone disease', it is a group of genetic disorders that mainly affect the bones. Most cases are caused by autosomal dominant mutations in the COL1A1 or COL1A2 genes, which encode type I collagen.",
+    "pathophysiology": "The mutations result in either a decreased amount of normal type I collagen or the production of abnormal collagen. Since type I collagen is the major structural protein in bone, this leads to extreme bone fragility, osteopenia, and frequent fractures from minimal trauma.",
+    "symptoms": [
+      "Frequent bone fractures from mild trauma or no apparent cause",
+      "Blue or grey tint to the sclera (whites of the eyes)",
+      "Short stature and bone deformities (e.g., bowing of the legs)",
+      "Hearing loss in early adulthood",
+      "Dentinogenesis imperfecta (discolored, brittle teeth)"
+    ],
+    "epidemiology": "Osteogenesis Imperfecta (OI) is a rare genetic disorder, with an estimated prevalence of 1 in 15,000 to 20,000 births worldwide. It affects males and females equally and occurs in all racial and ethnic groups. Type I is the most common and mildest form, while Type II is the most severe and is typically lethal in the perinatal period.",
+    "diagnosis": "Diagnosis is primarily clinical, based on a history of frequent fractures, blue sclerae, and family history. X-rays reveal osteopenia, multiple fractures at various stages of healing, and bone deformities. Genetic testing for COL1A1 and COL1A2 mutations can confirm the diagnosis and determine the specific type. Biochemical testing of collagen from a skin biopsy is rarely used today.",
+    "treatment": "There is no cure for OI. Treatment focuses on preventing fractures, managing pain, and maximizing mobility. Intravenous bisphosphonates (e.g., pamidronate, zoledronic acid) are widely used in children to increase bone density and reduce fracture rates. Surgical interventions, such as rodding (inserting metal rods into long bones), correct deformities and provide structural support. Physical therapy is crucial.",
+    "prognosis": "The prognosis depends entirely on the type of OI. Individuals with Type I often have a normal lifespan and may experience fewer fractures after puberty. Severe forms (Types III and IV) involve significant physical disability, severe deformities, and potential respiratory complications, which can affect life expectancy. Type II is generally fatal shortly after birth.",
+    "sources": [
+      "Osteogenesis Imperfecta Foundation (OIF)",
+      "National Institutes of Health (NIH) - Genetics Home Reference",
+      "World Health Organization (WHO) - Rare Diseases"
+    ]
+  },
+  {
+    "id": "scoliosis",
+    "name": "Scoliosis",
+    "category": "Bone Disorders",
+    "etiology": "An abnormal lateral curvature of the spine. The most common form is adolescent idiopathic scoliosis (AIS), where the cause is unknown. Other types include congenital (vertebral anomalies) and neuromuscular (e.g., cerebral palsy, muscular dystrophy).",
+    "pathophysiology": "In idiopathic scoliosis, the spine develops a three-dimensional deformity involving lateral curvature and vertebral rotation. This rotation causes the ribs on the convex side of the curve to push posteriorly, creating a characteristic rib hump.",
+    "symptoms": [
+      "Uneven shoulders or waist",
+      "One shoulder blade appearing more prominent than the other",
+      "A visible curve in the spine",
+      "Leaning to one side",
+      "Back pain (more common in adults than adolescents)"
+    ],
+    "epidemiology": "Adolescent idiopathic scoliosis (AIS) affects approximately 2-3% of children between the ages of 10 and 15. While mild curves occur equally in boys and girls, girls are significantly more likely (up to 8 times) to develop severe curves that require treatment. Congenital and neuromuscular scoliosis are much less common.",
+    "diagnosis": "Diagnosis is typically initiated through school screening programs or by a pediatrician using the Adam's Forward Bend Test, which highlights rib asymmetry. The definitive diagnosis and measurement of the curve's severity (Cobb angle) are done using full-length standing X-rays of the spine. An MRI may be ordered if neurological symptoms are present or if the curve is atypical.",
+    "treatment": "Treatment depends on the severity of the curve (Cobb angle) and the patient's skeletal maturity. Mild curves (<20 degrees) are observed. Moderate curves (20-40 degrees) in growing children are typically treated with custom bracing (e.g., Boston brace) to prevent progression. Severe curves (>45-50 degrees) often require spinal fusion surgery to correct the deformity and stabilize the spine.",
+    "prognosis": "The prognosis for AIS is generally excellent. Bracing is highly effective at preventing curve progression in compliant patients. Surgical correction provides excellent long-term outcomes, allowing patients to lead normal, active lives. Untreated severe scoliosis can lead to chronic back pain, significant cosmetic deformity, and, in extreme cases (>90 degrees), cardiopulmonary compromise.",
+    "sources": [
+      "Scoliosis Research Society (SRS)",
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "World Health Organization (WHO) - Musculoskeletal Health"
+    ]
+  },
+  {
+    "id": "herniated-disc",
+    "name": "Herniated Disc",
+    "category": "Joint Diseases",
+    "etiology": "Occurs when the soft inner core (nucleus pulposus) of an intervertebral disc extrudes through a tear in the tough outer layer (annulus fibrosus). It is often age-related (disc degeneration) or caused by trauma/heavy lifting.",
+    "pathophysiology": "The herniated material can mechanically compress adjacent spinal nerves or the spinal cord. Additionally, the nucleus pulposus contains inflammatory mediators that chemically irritate the nerve root, leading to radiculopathy.",
+    "symptoms": [
+      "Sharp, shooting pain radiating down an arm or leg (sciatica)",
+      "Numbness or tingling in the distribution of the affected nerve",
+      "Muscle weakness in the affected limb",
+      "Pain that worsens with bending, lifting, or coughing",
+      "In severe cases, loss of bowel or bladder control (cauda equina syndrome)"
+    ],
+    "epidemiology": "Herniated discs are a very common cause of back and leg pain. They most frequently occur in the lumbar spine (L4-L5, L5-S1) and the cervical spine (C5-C6, C6-C7). The peak incidence is in adults aged 30 to 50 years. Risk factors include physically demanding jobs, heavy lifting, obesity, and genetics.",
+    "diagnosis": "Diagnosis begins with a clinical examination, including neurological testing (reflexes, muscle strength, sensory testing) and provocative tests like the Straight Leg Raise (SLR). Magnetic Resonance Imaging (MRI) is the gold standard imaging modality, clearly showing the disc herniation and nerve root compression. CT scans or myelograms may be used if MRI is contraindicated.",
+    "treatment": "Most herniated discs resolve with conservative treatment within 4-6 weeks. This includes brief rest, physical therapy, NSAIDs, and oral corticosteroids. Epidural steroid injections can provide significant pain relief. Surgical intervention (e.g., microdiscectomy) is considered if conservative treatment fails, if there is progressive neurological deficit, or in cases of cauda equina syndrome.",
+    "prognosis": "The prognosis is generally very good. Up to 90% of patients experience significant improvement with conservative management alone, as the herniated disc material often shrinks over time. For those requiring surgery, microdiscectomy has a high success rate for relieving radicular pain, though back pain may persist.",
+    "sources": [
+      "North American Spine Society (NASS)",
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "spinal-stenosis",
+    "name": "Spinal Stenosis",
+    "category": "Bone Disorders",
+    "etiology": "A narrowing of the spaces within the spine, which can put pressure on the spinal cord and the nerves that travel through the spine. It is most commonly caused by osteoarthritis and age-related degenerative changes.",
+    "pathophysiology": "Degeneration leads to disc bulging, facet joint hypertrophy, and thickening of the ligamentum flavum. These changes collectively encroach upon the spinal canal (central stenosis) or the neural foramina (foraminal stenosis), compressing neural structures.",
+    "symptoms": [
+      "Neurogenic claudication (pain, cramping, or weakness in the legs with walking or standing)",
+      "Symptoms improve when sitting or leaning forward (e.g., on a shopping cart)",
+      "Numbness or tingling in the legs or buttocks",
+      "Back pain",
+      "Balance issues or clumsiness"
+    ],
+    "epidemiology": "Spinal stenosis is primarily a disease of aging, most commonly affecting individuals over the age of 60. It is the most common reason for spinal surgery in adults over 65 in the United States. The lumbar spine is the most frequently affected region, followed by the cervical spine.",
+    "diagnosis": "Diagnosis is based on the characteristic clinical presentation (neurogenic claudication) and confirmed by imaging. MRI is the preferred modality, providing detailed views of the spinal canal, nerve roots, and soft tissues (ligaments, discs). CT myelography is an alternative for patients who cannot undergo MRI.",
+    "treatment": "Conservative management includes physical therapy (focusing on flexion exercises), NSAIDs, and epidural steroid injections to manage pain and inflammation. If symptoms are severe, significantly limit mobility, or if there is progressive neurological deficit, surgical decompression (e.g., laminectomy) is indicated. Spinal fusion may be added if there is associated spinal instability (e.g., spondylolisthesis).",
+    "prognosis": "Spinal stenosis is a chronic, slowly progressive condition. Conservative treatments can manage symptoms effectively for many years. Surgical decompression generally provides good to excellent relief of leg pain (neurogenic claudication), although back pain may not improve as significantly. The long-term outcome depends on the degree of underlying degeneration.",
+    "sources": [
+      "North American Spine Society (NASS)",
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "World Health Organization (WHO) - Ageing and Health"
+    ]
+  },
+  {
+    "id": "bursitis",
+    "name": "Bursitis",
+    "category": "Joint Diseases",
+    "etiology": "Inflammation of a bursa, a small fluid-filled sac that acts as a cushion between bones and tendons/muscles near a joint. It is typically caused by repetitive motion, prolonged pressure, trauma, or underlying inflammatory conditions (e.g., gout, RA).",
+    "pathophysiology": "Irritation or trauma causes the synovial lining of the bursa to become inflamed and produce excess fluid. This leads to swelling, increased pressure within the bursa, and pain during movement of the adjacent joint.",
+    "symptoms": [
+      "Localized pain and tenderness over the affected bursa",
+      "Swelling and visible redness (especially in superficial bursae like the olecranon or prepatellar)",
+      "Pain that worsens with movement or pressure",
+      "Stiffness in the adjacent joint",
+      "Fever if the bursa is infected (septic bursitis)"
+    ],
+    "epidemiology": "Bursitis is a very common musculoskeletal condition, frequently related to occupational or recreational activities. Common sites include the shoulder (subacromial), elbow (olecranon, 'student's elbow'), knee (prepatellar, 'housemaid's knee'), and hip (trochanteric). It affects adults of all ages, with incidence increasing in those with repetitive strain jobs.",
+    "diagnosis": "Diagnosis is usually clinical, based on a history of repetitive use or localized pressure and physical examination showing localized tenderness and swelling. Imaging is rarely needed but ultrasound or MRI can confirm the diagnosis and rule out other pathology (e.g., tendon tear). If septic bursitis is suspected, aspiration of the bursal fluid for Gram stain and culture is mandatory.",
+    "treatment": "Treatment for aseptic bursitis involves rest, ice, compression, and elevation (RICE), along with NSAIDs for pain and inflammation. Modifying activities to avoid pressure on the bursa is crucial. Corticosteroid injections into the bursa can provide rapid relief for refractory cases. Septic bursitis requires prompt treatment with systemic antibiotics and often repeated aspiration or surgical drainage.",
+    "prognosis": "The prognosis for aseptic bursitis is excellent. Most cases resolve completely within a few weeks with conservative management and activity modification. Recurrence is possible if the underlying repetitive activity is not addressed. Septic bursitis also has a good prognosis if treated promptly with antibiotics.",
+    "sources": [
+      "American College of Rheumatology (ACR)",
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "tendonitis",
+    "name": "Tendonitis",
+    "category": "Muscle Diseases",
+    "etiology": "Inflammation or irritation of a tendon, the thick fibrous cords that attach muscle to bone. It is most often caused by repetitive, minor impact on the affected area, or from a sudden, more serious injury.",
+    "pathophysiology": "Acute tendonitis involves active inflammation. However, most chronic cases are actually 'tendinosis', characterized by collagen degeneration, disorganized tissue, and neovascularization without significant inflammatory cells, resulting from failed healing of repetitive microtrauma.",
+    "symptoms": [
+      "Pain localized to the tendon, worsening with movement or resistance",
+      "Tenderness when pressing on the tendon",
+      "Mild swelling or thickening of the tendon",
+      "A grating feeling (crepitus) when moving the joint",
+      "Stiffness, particularly in the morning"
+    ],
+    "epidemiology": "Tendonitis (and tendinopathy) is extremely common, particularly among athletes, manual laborers, and older adults. Common sites include the Achilles tendon, patellar tendon ('jumper's knee'), lateral epicondyle ('tennis elbow'), and rotator cuff tendons. The risk increases with age as tendons lose elasticity.",
+    "diagnosis": "Diagnosis is primarily clinical, based on history and physical examination (e.g., pain reproduced by resisted muscle contraction or passive stretching). Ultrasound is highly effective for visualizing tendon thickening, tears, and neovascularization. MRI provides detailed images and is useful for assessing complex areas like the rotator cuff.",
+    "treatment": "Initial treatment involves rest, ice, and NSAIDs. Physical therapy is the most critical component, focusing on eccentric strengthening exercises, which stimulate collagen remodeling and tendon healing. Corticosteroid injections may provide short-term relief but carry a risk of tendon rupture and are generally avoided in weight-bearing tendons. Extracorporeal shockwave therapy (ESWT) or surgery are options for chronic, refractory cases.",
+    "prognosis": "The prognosis is generally good, but recovery can be slow, often taking weeks to months. Chronic tendinopathy requires patience and strict adherence to a physical therapy program. Complete resolution is common, but recurrence can occur if the inciting activity is resumed without proper biomechanical correction.",
+    "sources": [
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "American College of Sports Medicine (ACSM)",
+      "World Health Organization (WHO) - Occupational Health"
+    ]
+  },
+  {
+    "id": "carpal-tunnel-syndrome",
+    "name": "Carpal Tunnel Syndrome",
+    "category": "Muscle Diseases",
+    "etiology": "A compression neuropathy caused by pressure on the median nerve as it passes through the carpal tunnel in the wrist. Risk factors include repetitive hand use, pregnancy, diabetes, rheumatoid arthritis, and anatomical variations.",
+    "pathophysiology": "Increased pressure within the rigid carpal tunnel compromises the microcirculation of the median nerve. This leads to demyelination and, eventually, axonal loss, resulting in sensory and motor deficits in the nerve's distribution.",
+    "symptoms": [
+      "Numbness, tingling, or burning in the thumb, index, middle, and ring fingers",
+      "Pain that may radiate up the arm to the shoulder",
+      "Symptoms often worse at night, waking the patient",
+      "Weakness in the hand and tendency to drop objects",
+      "Atrophy of the thenar muscles (base of the thumb) in severe cases"
+    ],
+    "epidemiology": "Carpal Tunnel Syndrome (CTS) is the most common entrapment neuropathy, affecting 3-6% of the adult population. It is more common in women than men (ratio of 3:1) and typically peaks between the ages of 40 and 60. It is highly prevalent in occupations requiring repetitive forceful hand movements or the use of vibrating tools.",
+    "diagnosis": "Diagnosis is based on clinical symptoms and physical examination tests like Phalen's maneuver and Tinel's sign. The definitive diagnostic test is Electromyography and Nerve Conduction Studies (EMG/NCS), which measure the speed of electrical impulses along the median nerve and confirm the site and severity of compression. Ultrasound is increasingly used to measure nerve cross-sectional area.",
+    "treatment": "Conservative treatment is first-line for mild to moderate CTS and includes nocturnal wrist splinting (to keep the wrist in a neutral position), NSAIDs, and ergonomic modifications. Corticosteroid injections into the carpal tunnel provide significant, though sometimes temporary, relief. Carpal tunnel release surgery (cutting the transverse carpal ligament) is highly effective for severe or refractory cases.",
+    "prognosis": "The prognosis is excellent with appropriate treatment. Conservative measures resolve symptoms in many mild cases. Carpal tunnel release surgery has a success rate of over 90%, providing permanent relief of pain and tingling. However, if surgery is delayed in severe cases, some sensory loss or thenar muscle weakness may be permanent due to irreversible nerve damage.",
+    "sources": [
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "American Association of Neuromuscular & Electrodiagnostic Medicine (AANEM)",
+      "National Institute of Neurological Disorders and Stroke (NINDS)"
+    ]
+  },
+  {
+    "id": "osteomyelitis",
+    "name": "Osteomyelitis",
+    "category": "Bone Disorders",
+    "etiology": "An infection of the bone, most commonly caused by bacteria (especially Staphylococcus aureus). The infection can reach the bone through the bloodstream (hematogenous), from nearby tissue (contiguous), or via direct trauma/surgery.",
+    "pathophysiology": "Bacteria proliferate within the bone, inducing an acute inflammatory response. The resulting pus increases intramedullary pressure, compromising blood supply and leading to bone necrosis (sequestrum formation). New bone (involucrum) may form around the dead bone.",
+    "symptoms": [
+      "Deep, severe bone pain",
+      "Fever, chills, and systemic malaise",
+      "Local swelling, redness, and warmth over the affected bone",
+      "Restricted movement of the adjacent joint",
+      "Drainage of pus through the skin (sinus tract) in chronic cases"
+    ],
+    "epidemiology": "Osteomyelitis can affect people of all ages. Hematogenous osteomyelitis is more common in children, typically affecting the long bones (femur, tibia). In adults, osteomyelitis is more often contiguous, related to diabetic foot ulcers, pressure sores, or orthopedic hardware (e.g., joint replacements).",
+    "diagnosis": "Diagnosis requires a combination of clinical suspicion, laboratory tests (elevated WBC, ESR, CRP), and imaging. MRI is the most sensitive imaging modality for early detection of bone marrow edema. The definitive diagnosis and identification of the pathogen require a bone biopsy and culture. Blood cultures should also be drawn.",
+    "treatment": "Treatment requires prolonged, high-dose intravenous antibiotics, typically for 4 to 6 weeks, tailored to the specific organism identified in cultures. Surgical intervention is often necessary to drain abscesses, debride necrotic bone (sequestrectomy), and remove infected orthopedic hardware. In severe cases of diabetic foot osteomyelitis, amputation may be required.",
+    "prognosis": "Acute osteomyelitis has a good prognosis if diagnosed early and treated aggressively with appropriate antibiotics. However, if treatment is delayed or inadequate, it can progress to chronic osteomyelitis, which is notoriously difficult to cure and may require multiple surgeries, prolonged antibiotic courses, and carries a risk of permanent disability or amputation.",
+    "sources": [
+      "Infectious Diseases Society of America (IDSA)",
+      "American Academy of Orthopaedic Surgeons (AAOS)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "marfan-syndrome",
+    "name": "Marfan Syndrome",
+    "category": "Bone Disorders",
+    "etiology": "An autosomal dominant genetic disorder affecting connective tissue. It is caused by mutations in the FBN1 gene, which encodes fibrillin-1, a glycoprotein essential for the formation of elastic fibers.",
+    "pathophysiology": "Defective fibrillin-1 leads to weak elastic tissue and overactivation of TGF-beta signaling. This affects multiple organ systems, most notably the skeletal system (bone overgrowth), the cardiovascular system (aortic dilation), and the eyes (lens dislocation).",
+    "symptoms": [
+      "Tall, thin stature with disproportionately long arms, legs, and fingers (arachnodactyly)",
+      "Chest wall deformities (pectus excavatum or carinatum)",
+      "Scoliosis or kyphosis",
+      "Hypermobile joints",
+      "Ectopia lentis (dislocation of the lens of the eye)"
+    ],
+    "epidemiology": "Marfan syndrome is a relatively common rare disease, affecting approximately 1 in 5,000 individuals worldwide. It affects men and women equally and occurs in all ethnic groups. About 75% of cases are inherited from an affected parent, while 25% result from a new (de novo) mutation.",
+    "diagnosis": "Diagnosis is based on the revised Ghent nosology, a set of clinical criteria that evaluate cardiovascular, ocular, and skeletal features, along with family history. Echocardiography is crucial to measure aortic root diameter. A slit-lamp eye exam checks for lens dislocation. Genetic testing for FBN1 mutations confirms the diagnosis.",
+    "treatment": "There is no cure for Marfan syndrome. Management requires a multidisciplinary approach. Beta-blockers or angiotensin receptor blockers (ARBs) like losartan are used to reduce hemodynamic stress on the aorta and slow dilation. Regular echocardiograms are mandatory. Prophylactic aortic root replacement surgery is performed when the aorta reaches a critical diameter to prevent rupture. Orthopedic bracing or surgery manages scoliosis.",
+    "prognosis": "Historically, the life expectancy for individuals with Marfan syndrome was significantly reduced due to aortic dissection or rupture. However, with early diagnosis, regular cardiovascular monitoring, medical therapy, and timely prophylactic surgery, the life expectancy now approaches that of the general population.",
+    "sources": [
+      "The Marfan Foundation",
+      "American Heart Association (AHA)",
+      "National Institutes of Health (NIH) - Genetics Home Reference"
+    ]
+  },
+  {
+    "id": "ehlers-danlos-syndrome",
+    "name": "Ehlers-Danlos Syndrome",
+    "category": "Joint Diseases",
+    "etiology": "A group of inherited connective tissue disorders caused by defects in the synthesis or structure of collagen. There are 13 recognized subtypes, with the hypermobile type (hEDS) being the most common, though its specific genetic cause remains unknown.",
+    "pathophysiology": "Defective collagen results in abnormal connective tissue throughout the body. This leads to tissue fragility, joint hypermobility, and skin hyperextensibility. The vascular subtype (vEDS) involves fragile blood vessels and organs, posing severe risks.",
+    "symptoms": [
+      "Joint hypermobility, leading to frequent subluxations and dislocations",
+      "Skin that is highly elastic, velvety, and fragile (tears or bruises easily)",
+      "Chronic musculoskeletal pain",
+      "Poor wound healing and widened, atrophic scars",
+      "Fatigue and autonomic dysfunction (e.g., POTS)"
+    ],
+    "epidemiology": "The combined prevalence of all EDS types is estimated at 1 in 5,000. The hypermobile type (hEDS) is by far the most common. Other types, such as classical and vascular EDS, are much rarer. It affects all races and both sexes, though hEDS is more frequently diagnosed in females.",
+    "diagnosis": "Diagnosis relies heavily on clinical evaluation based on the 2017 International Classification criteria, assessing joint hypermobility (Beighton score), skin features, and systemic manifestations. Genetic testing can confirm the diagnosis for all subtypes except hEDS, for which the genetic marker is currently unknown. Echocardiography is important to check for aortic root dilation.",
+    "treatment": "There is no cure for EDS. Management is symptomatic and preventative. Physical therapy is crucial to strengthen muscles around hypermobile joints and improve proprioception. Pain management requires a multimodal approach. Patients must avoid high-impact activities. For vascular EDS, strict blood pressure control and emergency protocols for potential ruptures are vital.",
+    "prognosis": "The prognosis varies drastically by subtype. Individuals with hEDS or classical EDS generally have a normal lifespan, though chronic pain and joint instability can significantly impact quality of life. Vascular EDS (vEDS) has a much poorer prognosis, with a significantly shortened life expectancy due to the high risk of spontaneous arterial or organ rupture.",
+    "sources": [
+      "The Ehlers-Danlos Society",
+      "National Institutes of Health (NIH) - Genetics Home Reference",
+      "World Health Organization (WHO) - Rare Diseases"
+    ]
+  },
+  {
+    "id": "dermatomyositis",
+    "name": "Dermatomyositis",
+    "category": "Muscle Diseases",
+    "etiology": "A rare, idiopathic inflammatory myopathy characterized by muscle weakness and a distinctive skin rash. It is an autoimmune disease, often associated with specific autoantibodies and, in adults, an increased risk of underlying malignancy.",
+    "pathophysiology": "The immune system mistakenly attacks the capillaries supplying muscle fibers and skin. Complement-mediated microangiopathy leads to ischemia, muscle fiber necrosis, and perifascicular atrophy. Inflammatory infiltrates (B cells and CD4+ T cells) are prominent in the perivascular spaces.",
+    "symptoms": [
+      "Progressive, symmetrical proximal muscle weakness (difficulty climbing stairs, raising arms)",
+      "Heliotrope rash (purplish discoloration around the eyelids)",
+      "Gottron's papules (scaly, erythematous plaques on the knuckles)",
+      "Shawl sign (rash on the upper back and shoulders)",
+      "Dysphagia (difficulty swallowing) and interstitial lung disease"
+    ],
+    "epidemiology": "Dermatomyositis is a rare disease with an estimated incidence of 1 to 2 per 100,000 person-years. It has a bimodal age distribution, peaking in childhood (juvenile dermatomyositis, ages 5-15) and adulthood (ages 40-60). It is twice as common in females as in males. Adult-onset DM carries a strong association with occult malignancies (e.g., ovarian, lung, gastrointestinal cancers).",
+    "diagnosis": "Diagnosis involves clinical assessment of the characteristic rash and muscle weakness. Elevated muscle enzymes (CK, aldolase) are typical. Electromyography (EMG) shows myopathic changes. A muscle biopsy is definitive, showing perifascicular atrophy and perivascular inflammation. Myositis-specific autoantibodies (e.g., anti-Mi-2, anti-Jo-1, anti-TIF1-gamma) help define subtypes and prognosis. Extensive cancer screening is mandatory in adults.",
+    "treatment": "High-dose systemic corticosteroids (e.g., prednisone) are the first-line treatment to rapidly control inflammation. Immunosuppressive agents (methotrexate, azathioprine, mycophenolate mofetil) are usually added as steroid-sparing agents. Intravenous immunoglobulin (IVIG) is highly effective for refractory skin or muscle disease. Physical therapy is essential for restoring muscle strength.",
+    "prognosis": "The prognosis has improved significantly with immunosuppressive therapy. Most patients regain functional muscle strength, though some residual weakness may persist. The prognosis in adults is heavily dependent on the presence or absence of an underlying malignancy and the development of interstitial lung disease, which are the leading causes of mortality.",
+    "sources": [
+      "The Myositis Association",
+      "American College of Rheumatology (ACR)",
+      "Harrison's Principles of Internal Medicine"
+    ]
+  },
+  {
+    "id": "fop",
+    "name": "Fibrodysplasia Ossificans Progressiva",
+    "category": "Bone Disorders",
+    "etiology": "An extremely rare, devastating genetic disorder caused by a recurrent heterozygous mutation in the ACVR1 gene, which encodes a bone morphogenetic protein (BMP) type I receptor.",
+    "pathophysiology": "The mutation causes the ACVR1 receptor to become overactive, leading to the episodic transformation of skeletal muscle, tendons, ligaments, and fascia into heterotopic bone (ossification). This process is often triggered by trauma, viral illnesses, or intramuscular injections.",
+    "symptoms": [
+      "Congenital malformation of the great toes (short, bent inwards)",
+      "Episodic, painful soft tissue swellings (flare-ups)",
+      "Progressive formation of bone in soft tissues, locking joints in place",
+      "Severe restriction of movement, eventually leading to complete immobility",
+      "Difficulty breathing due to chest wall ossification"
+    ],
+    "epidemiology": "FOP is one of the rarest genetic conditions known, with an estimated prevalence of 1 in 1 to 2 million individuals worldwide. There is no ethnic, racial, or gender predilection. Most cases arise from spontaneous, de novo mutations, though it can be inherited in an autosomal dominant pattern.",
+    "diagnosis": "Diagnosis is primarily clinical, based on the pathognomonic combination of congenital great toe malformations and progressive heterotopic ossification. Genetic testing for the ACVR1 mutation confirms the diagnosis. Biopsies are strictly contraindicated, as the trauma of the biopsy will trigger explosive new bone formation at the site.",
+    "treatment": "Currently, there is no cure for FOP. Management is entirely preventative and supportive. It is critical to avoid any trauma, intramuscular injections (including vaccines), and unnecessary surgeries, as these trigger ossification. High-dose corticosteroids may be used during acute flare-ups to reduce pain and swelling, though they do not stop bone formation. Palovarotene, a retinoic acid receptor agonist, was recently approved in some countries to reduce new bone formation.",
+    "prognosis": "The prognosis for FOP is poor. The disease is relentlessly progressive. By their 20s or 30s, most individuals are completely immobilized, requiring a wheelchair and assistance with all activities of daily living. Life expectancy is significantly reduced (median age ~40 years), usually due to complications from thoracic insufficiency syndrome (inability to expand the chest to breathe).",
+    "sources": [
+      "International FOP Association (IFOPA)",
+      "National Institutes of Health (NIH) - Genetics Home Reference",
+      "World Health Organization (WHO) - Rare Diseases"
+    ]
+  },
+  {
+    "id": "hypophosphatasia",
+    "name": "Hypophosphatasia",
+    "category": "Bone Disorders",
+    "etiology": "A rare inherited metabolic disorder caused by loss-of-function mutations in the ALPL gene, which encodes tissue-nonspecific alkaline phosphatase (TNSALP).",
+    "pathophysiology": "Deficiency of TNSALP leads to the accumulation of inorganic pyrophosphate (PPi), a potent inhibitor of bone mineralization. This results in defective mineralization of bone (rickets or osteomalacia) and teeth.",
+    "symptoms": [
+      "Premature loss of primary (baby) teeth with intact roots",
+      "Soft, fragile bones leading to frequent fractures and deformities (bowed legs)",
+      "Bone and joint pain",
+      "Muscle weakness and delayed motor milestones in children",
+      "Hypercalcemia and nephrocalcinosis in severe infantile forms"
+    ],
+    "epidemiology": "Hypophosphatasia (HPP) is a rare disease, with the severe perinatal/infantile forms occurring in about 1 in 100,000 live births. Milder adult forms are more common but likely underdiagnosed. It is particularly prevalent in certain Mennonite populations in Canada due to a founder effect.",
+    "diagnosis": "Diagnosis is suspected based on clinical features (e.g., premature tooth loss, recurrent fractures) and a characteristically low serum alkaline phosphatase (ALP) level for the patient's age and gender. Elevated levels of TNSALP substrates (e.g., serum PLP/vitamin B6, urinary PEA) support the diagnosis. Genetic testing of the ALPL gene is definitive.",
+    "treatment": "Asfotase alfa, an enzyme replacement therapy (ERT), is the specific treatment for pediatric-onset HPP. It replaces the missing alkaline phosphatase, significantly improving bone mineralization, respiratory function, and survival in severe cases. Supportive care includes dental management, orthopedic surgery for fractures/deformities, and pain management. Traditional bisphosphonates are contraindicated as they further inhibit mineralization.",
+    "prognosis": "The prognosis varies widely depending on the age of onset. Perinatal HPP is often fatal without enzyme replacement therapy due to respiratory failure from unmineralized ribs. Infantile and childhood forms cause significant morbidity but improve dramatically with ERT. Adult HPP is generally milder, characterized by recurrent metatarsal stress fractures, early loss of adult teeth, and joint pain.",
+    "sources": [
+      "Soft Bones: The U.S. Hypophosphatasia Foundation",
+      "National Institutes of Health (NIH) - Genetics Home Reference",
+      "Endocrine Society"
+    ]
+  },
+  {
+    "id": "multiple-epiphyseal-dysplasia",
+    "name": "Multiple Epiphyseal Dysplasia",
+    "category": "Bone Disorders",
+    "etiology": "A spectrum of genetic skeletal dysplasias characterized by abnormal development of the epiphyses (the rounded ends of long bones). It can be caused by mutations in several genes, most commonly COMP, MATN3, or type IX collagen genes (COL9A1, COL9A2, COL9A3).",
+    "pathophysiology": "The genetic mutations disrupt the normal structure and function of cartilage extracellular matrix proteins. This leads to delayed and irregular ossification of the epiphyses, resulting in joint incongruity and early-onset cartilage degeneration.",
+    "symptoms": [
+      "Joint pain and stiffness, particularly in the hips and knees, starting in childhood",
+      "Early-onset osteoarthritis, often requiring joint replacement in early adulthood",
+      "Mild short stature or normal height with relatively short limbs",
+      "Waddling gait",
+      "Deformities such as genu valgum (knock knees) or genu varum (bowlegs)"
+    ],
+    "epidemiology": "Multiple Epiphyseal Dysplasia (MED) is a rare genetic disorder with an estimated prevalence of 1 in 10,000 to 20,000 births. It is typically inherited in an autosomal dominant pattern, though rare autosomal recessive forms exist. It affects males and females equally.",
+    "diagnosis": "Diagnosis is based on clinical findings (joint pain, mild short stature) and characteristic radiographic features. X-rays show delayed, small, fragmented, or irregular epiphyses, particularly in the hips, knees, and wrists. The spine is usually normal or only mildly affected, distinguishing it from spondyloepiphyseal dysplasia. Genetic testing confirms the specific gene mutation.",
+    "treatment": "There is no medical cure for MED. Management is focused on relieving symptoms and preserving joint function. This includes weight management, physical therapy, and avoiding high-impact activities. Analgesics and NSAIDs are used for pain. Orthopedic surgery, such as osteotomies to correct limb alignment, may delay joint degeneration. Total joint replacement (hips, knees) is frequently required in early adulthood.",
+    "prognosis": "MED does not affect life expectancy or cognitive function. However, it causes significant morbidity due to chronic joint pain and early-onset osteoarthritis. Most individuals will require total hip or knee replacements by their 30s or 40s. With appropriate orthopedic care, patients can maintain mobility and a good quality of life.",
+    "sources": [
+      "National Organization for Rare Disorders (NORD)",
+      "National Institutes of Health (NIH) - Genetics Home Reference",
+      "American Academy of Orthopaedic Surgeons (AAOS)"
+    ]
+  },
+  {
+    "id": "stickler-syndrome",
+    "name": "Stickler Syndrome",
+    "category": "Joint Diseases",
+    "etiology": "A group of genetic connective tissue disorders caused by mutations in collagen genes (most commonly COL2A1, COL11A1, COL11A2). It is typically inherited in an autosomal dominant manner.",
+    "pathophysiology": "Defects in types II, IX, or XI collagen disrupt the structural integrity of cartilage and the vitreous humor of the eye. This leads to premature joint degeneration, ocular abnormalities, and craniofacial defects.",
+    "symptoms": [
+      "Severe myopia (nearsightedness) and high risk of retinal detachment",
+      "Hearing loss (sensorineural or conductive)",
+      "Craniofacial features: flat midface, cleft palate, Pierre Robin sequence (small jaw, U-shaped cleft palate, tongue falling back)",
+      "Joint hypermobility in childhood, transitioning to early-onset osteoarthritis",
+      "Mild spondyloepiphyseal dysplasia (spinal abnormalities)"
+    ],
+    "epidemiology": "Stickler syndrome is the most common identifiable cause of cleft palate, estimated to affect 1 in 7,500 to 9,000 newborns. It affects males and females equally. Because symptoms can be mild and highly variable even within families, it is likely underdiagnosed.",
+    "diagnosis": "Diagnosis is clinical, based on a combination of ocular, auditory, craniofacial, and skeletal findings. A thorough ophthalmologic exam is critical to identify vitreous anomalies and retinal tears. Audiometry assesses hearing loss. X-rays may show mild epiphyseal dysplasia or early osteoarthritis. Genetic testing confirms the diagnosis and identifies the specific collagen mutation.",
+    "treatment": "Management requires a multidisciplinary team. Prophylactic laser photocoagulation or cryotherapy is crucial to prevent retinal detachment. Hearing aids or tympanostomy tubes manage hearing loss. Cleft palate requires surgical repair. Joint pain is managed with NSAIDs and physical therapy; joint replacement may be necessary in adulthood. Regular ophthalmologic and audiologic screening is mandatory.",
+    "prognosis": "The prognosis for a normal lifespan is excellent. However, the quality of life depends heavily on the timely management of complications. Retinal detachment can lead to blindness if not treated promptly. Early-onset osteoarthritis causes chronic pain and mobility issues. With proactive screening and treatment, most severe complications can be mitigated.",
+    "sources": [
+      "Stickler Involved People (SIP)",
+      "National Institutes of Health (NIH) - Genetics Home Reference",
+      "American Academy of Ophthalmology (AAO)"
+    ]
+  },
+  {
+    "id": "mccune-albright-syndrome",
+    "name": "McCune-Albright Syndrome",
+    "category": "Bone Disorders",
+    "etiology": "A rare genetic disorder caused by a post-zygotic, somatic activating mutation in the GNAS gene. Because it is a somatic mosaicism, the mutation is not inherited but occurs randomly during early embryonic development.",
+    "pathophysiology": "The GNAS mutation leads to constitutive activation of the Gs-alpha protein, resulting in overproduction of intracellular cAMP. This continuous signaling disrupts normal cell function in affected tissues, leading to fibrous dysplasia in bones, hyperfunctioning endocrine glands, and altered melanocyte function.",
+    "symptoms": [
+      "Polyostotic fibrous dysplasia (normal bone is replaced by fibrous tissue, causing pain, deformities, and fractures)",
+      "Café-au-lait macules (birthmarks with irregular, 'coast of Maine' borders)",
+      "Precocious puberty (especially in girls, with early breast development and menstruation)",
+      "Hyperthyroidism, growth hormone excess, or Cushing syndrome",
+      "Facial asymmetry or vision/hearing loss if skull bones are involved"
+    ],
+    "epidemiology": "McCune-Albright Syndrome (MAS) is extremely rare, with an estimated prevalence of 1 in 100,000 to 1 in 1,000,000. It affects both sexes, though precocious puberty is much more commonly observed in females. Because it is a mosaic disorder, it is not passed from parent to child.",
+    "diagnosis": "Diagnosis is typically clinical, based on the classic triad: fibrous dysplasia, café-au-lait spots, and endocrine hyperfunction (though not all three must be present). X-rays show characteristic 'ground-glass' appearance of fibrous dysplasia lesions. Endocrine testing evaluates hormone levels. Genetic testing of affected tissue (not blood) can confirm the GNAS mutation.",
+    "treatment": "There is no cure for MAS. Treatment is highly individualized based on the tissues affected. Bisphosphonates (e.g., pamidronate) are used to treat bone pain and strengthen bone in fibrous dysplasia. Orthopedic surgery manages fractures and deformities. Endocrine hyperactivity is treated with medications (e.g., letrozole for precocious puberty, methimazole for hyperthyroidism) or surgical removal of the overactive gland.",
+    "prognosis": "The prognosis is highly variable and depends on the extent of tissue involvement (the degree of mosaicism). Mild cases may have a normal lifespan and minimal disability. Severe cases with extensive bone involvement can lead to significant physical deformity, repeated fractures, and cranial nerve compression (blindness/deafness). Endocrine issues require lifelong management.",
+    "sources": [
+      "Fibrous Dysplasia Foundation",
+      "National Organization for Rare Disorders (NORD)",
+      "Endocrine Society"
+    ]
+  }
+]
